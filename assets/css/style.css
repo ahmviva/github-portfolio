@@ -1889,3 +1889,8 @@ textarea.form-input::-webkit-resizer { display: none; }
 .navbar {
   display: none !important;
 }
+
+.css-1gjszdr-Preview-Location-itemLink {
+  color: #fec260;
+  font-weight: bold;
+}
