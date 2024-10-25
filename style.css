@@ -3,4 +3,6 @@
     background: black;
     color: white;
   }
-  
+  .navbar {
+    display: none;
+  }
