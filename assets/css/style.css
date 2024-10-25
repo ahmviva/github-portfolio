@@ -1884,3 +1884,6 @@ textarea.form-input::-webkit-resizer { display: none; }
   margin-top: 21px;
   display: inline-grid;
 }
+.navbar {
+  display: none !important;
+}
